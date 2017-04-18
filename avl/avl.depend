@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1478031741 source:c:\users\diamo\desktop\grafuri\problme\avl\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<time.h>
+
